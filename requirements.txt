@@ -1,0 +1,8 @@
+datasets
+numpy
+pandas
+torch
+transformers
+tqdm
+jupyter
+praw
